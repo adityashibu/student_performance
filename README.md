@@ -1,2 +1,3 @@
-# student_performance
-Creating a linear regression model using a Student performance data set to predict a students final grade
+# Student Grade Predictor
+
+## Regression model using Keras
